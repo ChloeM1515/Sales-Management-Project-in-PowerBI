@@ -11,6 +11,7 @@ We measure our numbers against **budget** so l added that in a spreadsheet so we
 The budget is for 2021 and we usually look **2 years back** in time when we do analysis of sales.
 
 
+
 ## Analyze Requirement using User Stories
 
 ### Business Demand Overview
