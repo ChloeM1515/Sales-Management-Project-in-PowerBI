@@ -1,8 +1,8 @@
 # Sales-Management-Project-in-PowerBI
 
-## Define business request
+## Define Business Request
 
-**Message from Sales Manager**
+### Message from Sales Manager
 
 I hope you are doing well. We need to improve our **internet sales reports** and want to move from static reports to **visual dashboards**.
 Essentially, we want to focus on how much we have **sold of what products**, to **which clients** and how it has been **over time**.
@@ -13,13 +13,13 @@ The budget is for 2021 and we usually look **2 years back** in time when we do a
 
 ## Analyze Requirement using User Stories
 
-**Business Demand Overview**
+### Business Demand Overview
 * Reporter: Sales Manager
 * Value of Change: Visual dashboards and improved internet sales report
 * Necessary Systems: PowerBI, CRM system
 * Other Relevant Info: Budgets were delivered in Excel for 2021
 
-**User Stories**
+### User Stories
 <img width="736" alt="Screenshot 2023-07-28 at 18 47 47" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/e2d923e7-cb9b-4628-9c9f-44ea7b539296">
 
 
