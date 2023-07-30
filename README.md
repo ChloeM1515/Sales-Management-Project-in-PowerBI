@@ -48,7 +48,7 @@ The budget is for 2021 and we usually look **2 years back** in time when we do a
 
 
 - Insight: Mountain Bikes 46, 42, 38 are **best-seller products** overall. However, best-seller in Jan 2021 was taken place by another product, Helmet.
-- Recommendation: Take further observation for this type of product.
+- Recommendation: Focus on sales strategy for Mountain Bikes products, as well as conduct analysis for Helmet to see if it is the raising star in 2021.
 
 ### Clients
 <img width="944" alt="Screenshot 2023-07-30 at 16 28 23" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/9a5ecd07-c615-426e-8c88-86bec4cc396e">
@@ -58,7 +58,7 @@ The budget is for 2021 and we usually look **2 years back** in time when we do a
 <img width="803" alt="Screenshot 2023-07-30 at 16 28 49" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/cbf904f6-b2d9-4542-b580-0a46e9315d9c">
 
 - Insight: **Jordan Turner** was in top 5 customers from 2019 - 2020. Others were new customers.
-- Recommendation: Conduct further analysis on customer churn rate and retention rate
+- Recommendation: Conduct further analysis on customer churn rate and retention rate.
 
 ### Budget
 <img width="433" alt="Screenshot 2023-07-30 at 16 57 47" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/16bb7f6e-76f2-4997-91d9-5381bb6ee7cb">
