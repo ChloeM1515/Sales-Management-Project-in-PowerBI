@@ -41,6 +41,8 @@ The budget is for 2021 and we usually look **2 years back** in time when we do a
 ## Insights and Recommendation
 (Data range from Jan 2019 - Jan 2021)
 
+
+
 ### Best-sellers
 <img width="715" alt="Screenshot 2023-07-30 at 15 58 32" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/6ba7c779-8010-4197-9981-93cbdb1217d1">
 
