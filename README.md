@@ -35,3 +35,7 @@ The budget is for 2021 and we usually look **2 years back** in time when we do a
 
 
 <img width="1027" alt="Screenshot 2023-07-28 at 00 02 11" src="https://github.com/ChloeM1515/PowerBI-project/assets/130263988/8e486d94-9311-4437-b04d-5114f278fdd6">
+
+
+## Insights and Recommendation
+
