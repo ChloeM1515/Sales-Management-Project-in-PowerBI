@@ -58,7 +58,7 @@ The budget is for 2021 and we usually look **2 years back** in time when we do a
 <img width="803" alt="Screenshot 2023-07-30 at 16 28 49" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/cbf904f6-b2d9-4542-b580-0a46e9315d9c">
 
 - Insight: **Jordan Turner** was in top 5 customers from 2019 - 2020. Others were new customers.
-- Recommendation: Conduct further analysis on customer churn rate and retention rate.
+- Recommendation: Enhance customer service for top 10 customers like Jordan. Conduct further analysis on customer churn rate and retention rate.
 
 ### Budget
 <img width="433" alt="Screenshot 2023-07-30 at 16 57 47" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/16bb7f6e-76f2-4997-91d9-5381bb6ee7cb">
