@@ -14,6 +14,7 @@ The budget is for 2021 and we usually look **2 years back** in time when we do a
 ### Analyze Requirement using User Stories
 
 <img width="715" alt="Screenshot 2023-07-30 at 15 58 32" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/6ba7c779-8010-4197-9981-93cbdb1217d1">
+
 * Necessary Systems: PowerBI, CRM system
 
 
