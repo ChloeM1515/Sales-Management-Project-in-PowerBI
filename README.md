@@ -11,23 +11,31 @@ We measure our numbers against **budget** so l added that in a spreadsheet so we
 The budget is for 2021 and we usually look **2 years back** in time when we do analysis of sales.
 
 
-
-### Analyze Requirement
-Stakeholders: Sales Manager, Sales Executive - PUrpose
-* Necessary Systems: PowerBI, CRM system
-Define this stakeholser
-* Other Relevant Info: Budgets were delivered in Excel for 2021
-
-
-### Define Requirement by User Stories
-
+### Analyze Requirement using User Stories
 
 <img width="715" alt="Screenshot 2023-07-30 at 15 58 32" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/6ba7c779-8010-4197-9981-93cbdb1217d1">
+* Necessary Systems: PowerBI, CRM system
 
 
-### Clarify Detail Requirement
-Provide dashboard PowerBI : Overview, KPI chart, product chart, gom nhung gi
-break down bu area, cross tab, are nao best selling, overview break down , thoi diem trong nawm chien dich marketing 
+### Clarify Details
+Provide a dashboard in PowerBI, including 2 pages: 
+- Page 1: Sales Overview, including:
+  + KPI chart
+  + Filters by Year and Month (Slicer)
+  + Filters by Customer City, Sub-category, Category, Product Name (Slicer)
+  + Sales by Product Category (Donut chart)
+  + Sales and Budget by month (Line chart)
+  + Sales by top 10 Customers, top 10 Products (Bar chart) 
+- Page 2: Customer Details, including:
+  + Filters by Year and Month (Slicer)
+  + Filters by Customer City, Sub-category, Category, Product Name (Slicer)
+  + Sales and Budget total sales (Card)
+  + Sales and Budget by month (Line chart)
+  + Sales by top 10 Customers (Bar chart)
+  + Sales per each customeres by month (Table)
+_Suggest to add a map showing Sales by Customer City so that stakeholders have better understanding of sales by region_ 
+
+
 
 ## Data Model
 <img width="914" alt="Screenshot 2023-07-28 at 18 54 47" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/5e39aabb-8327-46ac-a102-f8b8baf6978e">
