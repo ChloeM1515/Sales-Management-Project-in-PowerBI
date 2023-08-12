@@ -59,7 +59,8 @@ _Suggest to add a map showing Sales by Customer City so that stakeholders have b
 <img width="277" alt="Screenshot 2023-07-30 at 16 13 05" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/38ecacac-2140-4ca8-a5b7-4e3825e19a38">
 
 
-- Insight: Mountain Bikes 46, 42, 38 are **best-seller products** overall. However, best-seller in Jan 2021 was taken place by another product, Helmet.
+- Insight: Customers prefer Mountain Bikes products.
+- Mountain Bikes 46, 42, 38 are **best-seller products** overall. However, best-seller in Jan 2021 was taken place by another product, Helmet.
 - Suggest: Focus on sales strategy for Mountain Bikes products, as well as conduct analysis for Helmet to see if it is the raising star in 2021.
 
 ### Insight by clients:
