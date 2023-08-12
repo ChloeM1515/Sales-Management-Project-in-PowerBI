@@ -12,19 +12,22 @@ The budget is for 2021 and we usually look **2 years back** in time when we do a
 
 
 
-## Analyze Requirement using User Stories
-
-### Business Demand Overview
-* Reporter: Sales Manager
-* Value of Change: Visual dashboards and improved internet sales report
+### Analyze Requirement using User Stories
+2 stakeholders: Sales Manager, Sales Executive - PUrpose
 * Necessary Systems: PowerBI, CRM system
+Define this stakeholser
 * Other Relevant Info: Budgets were delivered in Excel for 2021
+
 
 ### Define Requirement by User Stories
 
 
 <img width="715" alt="Screenshot 2023-07-30 at 15 58 32" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/6ba7c779-8010-4197-9981-93cbdb1217d1">
 
+
+### Clarify Detail Requirement
+Provide dashboard PowerBI : Overview, KPI chart, product chart, gom nhung gi
+break down bu area, cross tab, are nao best selling, overview break down , thoi diem trong nawm chien dich marketing 
 
 ## Data Model
 <img width="914" alt="Screenshot 2023-07-28 at 18 54 47" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/5e39aabb-8327-46ac-a102-f8b8baf6978e">
@@ -43,14 +46,14 @@ The budget is for 2021 and we usually look **2 years back** in time when we do a
 
 
 
-### Best-sellers
+### Insight by best-sellers products:
 <img width="277" alt="Screenshot 2023-07-30 at 16 13 05" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/38ecacac-2140-4ca8-a5b7-4e3825e19a38">
 
 
 - Insight: Mountain Bikes 46, 42, 38 are **best-seller products** overall. However, best-seller in Jan 2021 was taken place by another product, Helmet.
 - Recommendation: Focus on sales strategy for Mountain Bikes products, as well as conduct analysis for Helmet to see if it is the raising star in 2021.
 
-### Clients
+### Insight by clients:
 <img width="944" alt="Screenshot 2023-07-30 at 16 28 23" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/9a5ecd07-c615-426e-8c88-86bec4cc396e">
 
 <img width="948" alt="Screenshot 2023-07-30 at 16 28 35" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/f0e44727-847e-48a9-973a-68d740243243">
@@ -60,7 +63,7 @@ The budget is for 2021 and we usually look **2 years back** in time when we do a
 - Insight: **Jordan Turner** was in top 5 customers from 2019 - 2020. Others were new customers.
 - Recommendation: Enhance customer service for top 10 customers like Jordan. Conduct further analysis on customer churn rate and retention rate.
 
-### Budget
+### Insight by budget:
 <img width="433" alt="Screenshot 2023-07-30 at 16 57 47" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/16bb7f6e-76f2-4997-91d9-5381bb6ee7cb">
 
 - Insight: Sales and Budget were quite close in 2020, except for significant differences in June and November 2020.
