@@ -34,7 +34,8 @@ Provide a dashboard in PowerBI, including 2 pages:
   + Sales and Budget by month (Line chart)
   + Sales by top 10 Customers (Bar chart)
   + Sales per each customeres by month (Table)
-_Suggest to add a map showing Sales by Customer City so that stakeholders have better understanding of sales by region_ 
+
+-_Suggest to add a map showing Sales by Customer City so that stakeholders have better understanding of sales by region_ 
 
 
 
