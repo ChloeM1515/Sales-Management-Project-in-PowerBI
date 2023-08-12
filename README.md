@@ -12,8 +12,8 @@ The budget is for 2021 and we usually look **2 years back** in time when we do a
 
 
 
-### Analyze Requirement using User Stories
-2 stakeholders: Sales Manager, Sales Executive - PUrpose
+### Analyze Requirement
+Stakeholders: Sales Manager, Sales Executive - PUrpose
 * Necessary Systems: PowerBI, CRM system
 Define this stakeholser
 * Other Relevant Info: Budgets were delivered in Excel for 2021
