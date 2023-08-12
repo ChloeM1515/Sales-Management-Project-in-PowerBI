@@ -1,7 +1,5 @@
 # Sales-Management-Project-in-PowerBI
 
-## Define Business Request
-
 ### Message from Sales Manager
 
 I hope you are doing well. We need to improve our **internet sales reports** and want to move from static reports to **visual dashboards**.
@@ -11,6 +9,7 @@ We measure our numbers against **budget** so l added that in a spreadsheet so we
 The budget is for 2021 and we usually look **2 years back** in time when we do analysis of sales.
 
 
+## Define Business Request
 ### Analyze Requirement using User Stories
 
 <img width="715" alt="Screenshot 2023-07-30 at 15 58 32" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/6ba7c779-8010-4197-9981-93cbdb1217d1">
