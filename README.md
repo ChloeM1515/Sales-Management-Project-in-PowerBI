@@ -59,14 +59,15 @@ _Suggest to add a map showing Sales by Customer City so that stakeholders have b
 <img width="277" alt="Screenshot 2023-07-30 at 16 13 05" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/38ecacac-2140-4ca8-a5b7-4e3825e19a38">
 
 
-- Insight: **Mountain Bikes brought back highest sales overall.**
+- **Mountain Bikes brought back highest sales overall.**
   + Mountain Bikes sales was on **top 1-6**. Each product was sold more than **$1M**. Bikes products in general comprised **95%** of total sales.
-- Insight: **Overtime, trend was switched from Road Bikes to Mountain Bikes.**
+- **Overtime, trend was switched from Road Bikes to Mountain Bikes.**
   + Road Bikes sales always appeared on top 1-5 (Jan19- May19), before they were gradually replaced by Mountain Bikes (Jun19 - Feb20), then completedly surpassed by Mountain Bikes in Mar20. From Jan21, Accessories products were on top (data cut-off to end of 2021).
-- Insight: **Sales peak time was from Oct - Dec**
+- **Sales peak time was from Oct - Dec**
   + Average sale amount in Q4 2019 was **~24%** more than it in Q1,2,3. Gap in 2020 was **~45%**.
 
-=> Suggest: 
+
+**=> Suggest: **
   + Enhance selling Mountain Bikes products to increase sales amount.
   + Conduct further analysis to see if Accessories will be trending in replace of Bikes or they're seasonal products.
   + Create campaign to push sales from Oct - Dec.
@@ -78,11 +79,12 @@ _Suggest to add a map showing Sales by Customer City so that stakeholders have b
 
 <img width="803" alt="Screenshot 2023-07-30 at 16 28 49" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/cbf904f6-b2d9-4542-b580-0a46e9315d9c">
 
-- **Insight: Jordan Turner was top 1 customer overall.**
+- **Jordan Turner was top 1 customer overall.**
   + Jordan Turner's sales was $15.999, exceeded $3000 compared to no.2.
-- **Insight: Overtime, top 5 customers fluctuated monthly**
-  + Each month, top 5 customers were replaced by different names. 
-=> **Suggest:**
+- **Overtime, top 5 customers fluctuated monthly**
+  + Each month, top 5 customers were replaced by different names.
+    
+**=> Suggest:**
   + Enhance customer service for top 10 customers like Jordan.
   + Conduct further analysis on customer churn rate and retention rate.
 
