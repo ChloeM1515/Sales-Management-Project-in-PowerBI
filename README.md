@@ -92,5 +92,6 @@ _Suggest to add a map showing Sales by Customer City so that stakeholders have b
 
 - **Gap between Sales and Budget were quite close in 2020, except for significant differences in June and Q4 2020.**
   + Difference between Sales and Budget was usually around **$50k**, except for **~$500k** in June, and **>$100k**in Q4 2020.
+
 **=> Suggest:**
   + Take futher investigation on sales in June and November to see if there was any cause to significant increase.
