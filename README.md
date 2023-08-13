@@ -66,8 +66,7 @@ _Suggest to add a map showing Sales by Customer City so that stakeholders have b
 - **Sales peak time was from Oct - Dec**
   + Average sale amount in Q4 2019 was **~24%** more than it in Q1,2,3. Gap in 2020 was **~45%**.
 
-
-**=> Suggest: **
+**=> Suggest:**
   + Enhance selling Mountain Bikes products to increase sales amount.
   + Conduct further analysis to see if Accessories will be trending in replace of Bikes or they're seasonal products.
   + Create campaign to push sales from Oct - Dec.
@@ -80,7 +79,7 @@ _Suggest to add a map showing Sales by Customer City so that stakeholders have b
 <img width="803" alt="Screenshot 2023-07-30 at 16 28 49" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/cbf904f6-b2d9-4542-b580-0a46e9315d9c">
 
 - **Jordan Turner was top 1 customer overall.**
-  + Jordan Turner's sales was $15.999, exceeded $3000 compared to no.2.
+  + Jordan Turner's sales was $15.999, exceeded $3k compared to no.2.
 - **Overtime, top 5 customers fluctuated monthly**
   + Each month, top 5 customers were replaced by different names.
     
@@ -91,5 +90,7 @@ _Suggest to add a map showing Sales by Customer City so that stakeholders have b
 ### Insight by budget:
 <img width="433" alt="Screenshot 2023-07-30 at 16 57 47" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/16bb7f6e-76f2-4997-91d9-5381bb6ee7cb">
 
-- Insight: Sales and Budget were quite close in 2020, except for significant differences in June and November 2020.
-- Suggest: Take futher investigation on sales in June and November to see if there was any cause to significant increase.
+- **Gap between Sales and Budget were quite close in 2020, except for significant differences in June and Q4 2020.**
+  + Difference between Sales and Budget was usually around **$50k**, except for **~$500k** in June, and **>$100k**in Q4 2020.
+**=> Suggest:**
+  + Take futher investigation on sales in June and November to see if there was any cause to significant increase.
